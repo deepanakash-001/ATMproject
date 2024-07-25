@@ -1,0 +1,2 @@
+ATM STIMULATION SYSTEM
+The ATM Simulation System is a console-based application designed to emulate the basic functionalities of an Automated Teller Machine (ATM). This project allows users to authenticate using their account number and PIN, check their balance, deposit money, and withdraw money. It is implemented in Java and serves as a demonstration of fundamental programming concepts, including object-oriented programming and user input handling.
